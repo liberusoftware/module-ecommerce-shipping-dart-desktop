@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-shipping-dart-desktop",
+  "capabilityKey": "planned:ecommerce:shipping",
+  "presentation": "dart-desktop",
+  "package": "module_ecommerce_shipping_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/ecommerce/nextjs/shipping.md",
+  "presentationPlan": "projects/ecommerce/features/shipping.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
